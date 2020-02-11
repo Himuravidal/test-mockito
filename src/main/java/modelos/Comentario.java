@@ -9,6 +9,8 @@ public class Comentario {
 	private Long albumId;
 	private String detalle;
 	private Date fecha;
+	
+	private String algo;
 
 	public Comentario(Long id, Long usuarioId, Long albumId, String detalle, Date fecha) {
 		super();
