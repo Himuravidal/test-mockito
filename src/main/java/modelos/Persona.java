@@ -4,6 +4,7 @@ public class Persona {
 
 	private String nombre;
 	private String rut;
+	private String otraCosa;
 	
 	
 	public Persona(String nombre, String rut) {
