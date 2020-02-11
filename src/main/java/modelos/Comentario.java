@@ -11,6 +11,7 @@ public class Comentario {
 	private Date fecha;
 	
 	private String algo;
+	private String nada;
 
 	public Comentario(Long id, Long usuarioId, Long albumId, String detalle, Date fecha) {
 		super();
